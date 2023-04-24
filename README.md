@@ -11,11 +11,12 @@ Note: The notebook uses data from an external source, so it may take some time t
 
 ## Requirements
 The notebook requires the following Python libraries:
-
-Pandas
-Numpy
-Sklearn
-Tensorflow
-Matplotlib
-Plotly
+<ul>
+<li>Pandas
+<li>Numpy
+<li>Sklearn
+<li>Tensorflow
+<li>Matplotlib
+<li>Plotly
+</ul>
 All these libraries are pre-installed in Google Colab. However, if you want to run the notebook locally, you need to install these libraries manually.

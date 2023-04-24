@@ -1,6 +1,6 @@
 # Stock Market Forecasting using Machine Learning
 
-This Colab notebook showcases the use of machine learning algorithms in predicting the performance of stock market indices. The project uses data from four different stock market indices worldwide, pre and post the COVID-19 pandemic. The notebook provides an analysis of the data using various time series analysis methods such as Simple Moving Average, Exponential Moving Average, Support Vector Regressor, LSTM, 1D CNN, and SVR.
+This Colab notebook showcases the use of machine learning algorithms in predicting the performance of stock market indices. The project uses data from four different stock market indices worldwide, pre and post the COVID-19 pandemic. The notebook provides an analysis of the data using various time series analysis methods such as Simple Moving Average, Exponential Moving Average, LSTM, 1D CNN, and SVR.
 
 ## Steps to Run
 <ol>

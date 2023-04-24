@@ -27,4 +27,5 @@ The notebook requires the following Python libraries:
 <li>Matplotlib
 <li>Plotly
 </ul>
+
 All these libraries are pre-installed in Google Colab. However, if you want to run the notebook locally, you need to install these libraries manually.
